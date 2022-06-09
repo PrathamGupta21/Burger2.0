@@ -25,6 +25,14 @@
   border-radius: 15px;
 }
 
+.Tomato {
+  width: 54%;
+  height: 4%;
+  margin: 0.5% auto;
+  background: linear-gradient(#9f0808, #791326);
+  border-radius: 20px;
+}
+
 .Cheese {
   width: 54%;
   height: 4%;
